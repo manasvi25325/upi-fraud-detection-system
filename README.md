@@ -143,11 +143,11 @@ streamlit run app.py
 
 ### Home Page
 
-![Home](screenshots/Homepage.png)
+![Home](Homepage.png)
 
 ### Prediction Result
 
-![Prediction](screenshots/result.png)
+![Prediction](Result.png)
 
 ## 📌 Future Enhancements
 
